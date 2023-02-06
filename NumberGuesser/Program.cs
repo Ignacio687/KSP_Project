@@ -10,7 +10,8 @@ namespace NumberGuesser
             string name = input;
             int age = 20;
 
-            Console.WriteLine("Hello {0}, your age is {1}",name,age);
+            Console.WriteLine("Hello {0}, your age is {1}", name, age);
         }
+        // switch and case stucture very intresting
     }
 }
